@@ -1,5 +1,5 @@
 const CONFIG = {
-    mainQuestion: "Can U Be My Girlfriend?",
+    mainQuestion: "Can u Be My Girlfriend Nisaa?",
     subQuestion: "Please say yes ",
     yesButton: "YES",
     noButton: "NO",
@@ -16,8 +16,8 @@ const CONFIG = {
     collageTitle: "My Beautiful You",
     collageSubtitle: "Sejak ada kamu, Daoa merasa happy terosss pokok nya love untukmu nisaaa hihihi. 💕",
     nextCollageButton: "Satu halaman lagi… ",
-    finalTitle: "Happy Valentine, My Love 💞",
-    finalMessage: `Mulai hari ini jam ini detik ini ANISA NURFADHILAH resmi telah menjadi pacar daffa /cirebon2026 💕`,
+    finalTitle: ",PROKLAMASI",
+    finalMessage: `hari di cirebon, jam ini, detik ini daffa dan nisa dengan penuh perasaan telah resmi berpacaran, hal-hal yang mengenai penyempurnaan dan kemesraan akan di selenggarakan dalam tempo yang selama-lamanya. 💕`,
     restartButton: "Restart ",
     copyButton: "Copy Message ",
     copySuccess: "Pesan berhasil dicopy! "
