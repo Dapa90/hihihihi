@@ -19,8 +19,7 @@ const CONFIG = {
     finalTitle: ",SELAMATTT YAAAA NISAAAAA",
     finalMessage: `LANJUT MELEGALKANNN HUBUNGAN INII HIHIHI 💕`,
     restartButton: "Restart ",
-    copyButton: "Copy Message ",
-    copySuccess: "Pesan berhasil dicopy! "
+   
 };
 
 const state = { currentPage: 1, hasClickedYes: false, noClickCount: 0, bouquetTaken: false, musicPlaying: false, photos: [null, null, null, null] };
