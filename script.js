@@ -16,7 +16,7 @@ const CONFIG = {
     collageTitle: "My Beautiful You",
     collageSubtitle: "Sejak ada kamu, Daoa merasa happy terosss pokok nya love untukmu nisaaa hihihi. 💕",
     nextCollageButton: "Satu halaman lagi… ",
-    finalTitle: ",FOR YOU",
+    finalTitle: "FOR YOU",
     finalMessage: `Makasih yaa nisa, sekarang sampai kapanpun itu kamu akan menjadi notif favorit daoa, perempuan yang daoa selalu tunggu chatnya, perempuan yang selalu buat daoa tersenyum, daoa usahain selagi daoa bisa buat kamu, pokoknya always apapun tentang muu, maaf untuk segala keegoisan dan perlakuan tidak baik dari daoa, daoa akan selalu perbaiki setiap harinya supaya daoa bisa memahamimu selamanya hihihi. 💕`,
     restartButton: "Restart ",
     copyButton: "Copy Message ",
