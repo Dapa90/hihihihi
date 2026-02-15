@@ -16,8 +16,8 @@ const CONFIG = {
     collageTitle: "My Beautiful You",
     collageSubtitle: "Sejak ada kamu, Daoa merasa happy terosss pokok nya love untukmu nisaaa hihihi. 💕",
     nextCollageButton: "Satu halaman lagi… ",
-    finalTitle: ",PROKLAMASI",
-    finalMessage: `hari di cirebon, jam ini, detik ini daffa dan nisa dengan penuh perasaan telah resmi berpacaran, hal-hal yang mengenai penyempurnaan dan kemesraan akan di selenggarakan dalam tempo yang selama-lamanya. 💕`,
+    finalTitle: ",SELAMATTT YAAAA NISAAAAA",
+    finalMessage: `LANJUT MELEGALKANNN HUBUNGAN INII HIHIHI 💕`,
     restartButton: "Restart ",
     copyButton: "Copy Message ",
     copySuccess: "Pesan berhasil dicopy! "
